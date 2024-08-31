@@ -38,7 +38,7 @@ const Hero = () => {
                             variants={container(1)}
                             initial="hidden"
                             animate="visible"
-                            className="mr-2 rounded bg-neutral-900 px-6 py-3 text-lg font-medium text-yellow-200">
+                            className=" mb-4 mr-2 rounded bg-neutral-900 px-6 py-3 text-lg font-medium text-yellow-200">
                             <a href="https://docs.google.com/document/d/1Rn40Ubja9-n1Y9AC-xv278zfVlTbkuq2rZ6HGLmP6Gc/edit" target="_blank">Resume</a>
                         </motion.button>
                     </div>
